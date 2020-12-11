@@ -1,0 +1,52 @@
+A system for injection and retraction of a fluid, the system comprising: 
+a switch configured to be depressed, wherein depression of the switch activates a motor; 
+a linear actuator that interfaces with the motor; 
+an electrical control system that interfaces with the linear actuator, wherein the electrical control system causes the motor to:
+depress a plunger;
+keep the plunger depressed for a predetermined time, and
+retract the plunger after the predetermined time; and
+a fluid reservoir engageable with the plunger, wherein the depression of the plunger causes fluid to be injected from the fluid reservoir and the retraction of the plunger causes fluid to be retracted from the fluid reservoir. 
+
+The system of claim 1, wherein the electrical control system controls the motor. 
+
+The system of claim 1, wherein the fluid reservoir is a syringe.
+
+The system of claim 3, wherein the syringe and the plunger are disposable. 
+
+The system of claim 4, further comprising:
+a plunger housing engageable with the plunger; and
+a syringe housing engageable with the syringe.
+
+The system of claim 5, wherein the syringe housing and the plunger housing are reusable. 
+
+The system of claim 5, wherein the syringe housing is a clamp, screw, twist, push, or snap fit mechanism.
+
+The system of claim 5, further comprising an ejection mechanism, wherein the ejection mechanism disengages the plunger from the plunger housing and the syringe from the syringe housing. 
+
+The system of claim 1, wherein the linear actuator includes a rack and a pinion, wherein the rack moves downward and depresses the plunger.
+
+The system of claim 1, wherein the electrical control system is pre-set or programmable to cause the motor to depress the plunger at a predetermined height or a predetermined speed.
+
+The system of claim 1, wherein the electrical control system is pre-set or programmable to cause the motor to retract the plunger at a predetermined height or a predetermined speed.
+
+A method for injection and retraction of a fluid, the method comprising:
+engaging a plunger housing with a plunger;
+engaging a fluid reservoir housing with a fluid reservoir; 
+activating a motor, wherein the motor is activated when a switch is depressed; 
+depressing, via an electrical control system that interfaces with a linear actuator that interfaces with the motor, a plunger for a predetermined time, wherein depression of the plunger causes fluid to be injected from a fluid reservoir;
+retracting the plunger after the predetermined time, wherein retraction of the plunger causes fluid to be retracted from the fluid reservoir; and
+disengaging the plunger from the plunger housing and the syringe from the syringe housing.
+
+The method of claim 12, wherein the fluid reservoir is a syringe and the fluid reservoir housing is a syringe housing.
+
+The method of claim 13, wherein the syringe and the plunger are disposable. 
+
+The method of claim 13, wherein the syringe housing and the plunger housing are reusable. 
+
+The method of claim 13, wherein the syringe housing is a clamp, screw, twist, push, or snap fit mechanism.
+
+The method of claim 12, wherein the linear actuator is a rack and a pinion, wherein the rack moves downward and depresses the plunger.
+
+The method of claim 12, wherein the electrical control system is pre-set or programmable to cause the motor to depress the plunger at a predetermined height.
+
+The method of claim 12, wherein the electrical control system is pre-set or programmable to cause the motor to retract the plunger at a predetermined speed.
